@@ -172,3 +172,9 @@ Ao executarmos a terceira rota, passamos uma lista de usuários e os IDs dos fil
 ## 📋 5 - Conclusão
 
 A execução deste projeto permitiu a implementação de um sistema de recomendação robusto utilizando diversas tecnologias de big data e aprendizado de máquina. O uso do modelo ALS do Spark MLlib proporcionou recomendações eficazes, e o armazenamento no MongoDB garantiu uma recuperação rápida dos dados. A API desenvolvida com FastAPI facilitou o acesso às recomendações, enquanto a integração com Kafka e Spark Streaming permitiu o fornecimento de recomendações em tempo real.
+
+Integrantes do projeto de extensão:
+Jean Oliveira Fraga - Matricula:202106009922
+Luciana Alburquerque - Matricula: 202205183599
+Tulio Betiol Sgobi – Matricula: 202205025403
+
